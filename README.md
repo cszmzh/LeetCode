@@ -1,2 +1,5 @@
-# LeetCode
-力扣(LeetCode)平台题库练习文件、解题思路
+# LeetCode练习
+我的力扣主页：https://leetcode-cn.com/u/banana798/
+
+为了提升算法设计能力，欢迎交流学习
+
